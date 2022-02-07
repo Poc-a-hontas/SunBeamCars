@@ -1,4 +1,4 @@
-"carlist": [
+{"carlist": [
     {
         name: "Suzuki Swift",
         category: "Budget",
@@ -24,3 +24,4 @@
         priceperday: "105"
     }
  ]
+}
