@@ -1,19 +1,26 @@
-"cars":[
-{
-  "Make": "Suzuki";
-  "Model": "Swift";
-  "Persons": 4;
-  },
-  
-  {
-  "Make": "Ford";
-  "Model": "Focus";
-  "Persons": 5;
-  },
-
+"carlist": [
     {
-  "Make": "Citroen";
-  "Model": "Picasso;
-  "Persons": 7;
-  },
-  ]
+        name: "Suzuki Swift",
+        category: "Budget",
+        persons: "4",
+        suitcases: "1",
+        image: "images/suzuki-swift.png",
+        priceperday: "0"
+    },
+    {
+        name: "Mazda 3",
+        category: "Standard",
+        persons: "5",
+        suitcases: "3",
+        image: "images/mazda-3.png",
+        priceperday: "60"
+    },
+    {
+        name: "Citroen Grand C4 Picasso",
+        category: "Minivan",
+        persons: "7",
+        suitcases: "4",
+        image: "images/citroen-picasso.png",
+        priceperday: "105"
+    }
+ ]
